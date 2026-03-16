@@ -1,4 +1,4 @@
-# Customer Intelligence & Revenue Optimization Dashboard
+# Customer Intelligence & Revenue Optimization System
 
 ![Customer-Intelligence](https://github.com/user-attachments/assets/974bd70f-5e45-47d4-8cc1-102aa26f816b)
 
