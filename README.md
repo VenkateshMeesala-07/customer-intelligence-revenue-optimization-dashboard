@@ -1,5 +1,7 @@
 # Customer Intelligence & Revenue Optimization Dashboard
 
+![Customer-Intelligence](https://github.com/user-attachments/assets/974bd70f-5e45-47d4-8cc1-102aa26f816b)
+
 ## Project Overview
 
 This project is an end-to-end retail analytics solution built to analyze customer behavior, profitability drivers, business risks, and future sales trends using Python, PostgreSQL, and Power BI.
@@ -76,6 +78,6 @@ Loss drivers, discount impact, regional profitability, and sales forecast.
 
 ---
 
-## Business Value
+## Business Outcome
 
-This dashboard helps decision-makers understand customer profitability, retention priorities, margin leakage, and future revenue direction.
+The dashboard helps identify profit drivers, customer retention priorities, margin leakage, and expected future revenue direction.
